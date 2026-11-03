@@ -12,9 +12,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="Projects I've built"></picture>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-rheon.svg"><img src="assets/light/p-rheon.svg" width="32%" alt="RHEON: Agentic AI for emergency blood supply — real-time coordination, inventory intelligence and smarter dispatch."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-vyora.svg"><img src="assets/light/p-vyora.svg" width="32%" alt="VYORA: AI fitness copilot with personalized workouts, voice coaching and guidance to hit your goals."></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-querysql.svg"><img src="assets/light/p-querysql.svg" width="32%" alt="QuerySQL: NLP-to-SQL engine that turns plain-language questions into safe, executable queries with schema awareness."></picture>
+<a href="https://github.com/aayushh0-0/Rheon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-rheon.svg"><img src="assets/light/p-rheon.svg" width="32%" alt="RHEON: Agentic AI for emergency blood supply — real-time coordination, inventory intelligence and smarter dispatch."></picture></a>
+<a href="https://github.com/aayushh0-0/VYORA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-vyora.svg"><img src="assets/light/p-vyora.svg" width="32%" alt="VYORA: AI fitness copilot with personalized workouts, voice coaching and guidance to hit your goals."></picture></a>
+<a href="https://github.com/aayushh0-0/Natural-Language-to-SQL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-querysql.svg"><img src="assets/light/p-querysql.svg" width="32%" alt="QuerySQL: NLP-to-SQL engine that turns plain-language questions into safe, executable queries with schema awareness."></picture></a>
 </p>
 <br>
 
