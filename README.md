@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="mailto:ayushrawat24070@gmail.com?subject=Project%20Inquiry">
-<img src="assets/cta.svg" width="100%" alt="Interested in working together? Send an email to ayushrawat24070@gmail.com">
+<img src="assets/cta-v2.svg" width="100%" alt="Interested in working together? Send an email to ayushrawat24070@gmail.com">
 </a>
 </p>
 <p align="center">
