@@ -24,7 +24,7 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg"><img src="assets/light/w-smartforum.svg" width="32%" alt="Motion Graphics"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-medelz.svg"><img src="assets/light/w-medelz.svg" width="32%" alt="Animation"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-satholler.svg"><img src="assets/light/w-satholler.svg" width="32%" alt="SatHoller, nft auctions"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-satholler.svg"><img src="assets/light/w-satholler.svg" width="32%" alt="Videographer"></picture>
 </p>
 
 <br>
