@@ -22,15 +22,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/light/s03.svg" width="100%" alt="Selected client work"></picture>
 
 <p align="center">
-<a href="https://www.behance.net/gallery/232965655/Medelz-Music-Streaming-Artist-Discovery-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-medelz.svg"><img src="assets/light/w-medelz.svg" width="32%" alt="Medelz, music platform"></picture></a>
-<a href="https://www.behance.net/gallery/232893223/Smart-Forum-Technology-Services-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg"><img src="assets/light/w-smartforum.svg" width="32%" alt="Smart Forum, it services"></picture></a>
-<a href="https://www.behance.net/gallery/232892185/SatHoller-NFT-Auction-Bidding-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-satholler.svg"><img src="assets/light/w-satholler.svg" width="32%" alt="SatHoller, nft auctions"></picture></a>
-</p>
-
-<p align="center">
-<a href="https://www.behance.net/gallery/232883891/MetaAdsFirm-Web3-Metaverse-Smart-Contract-Solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-metaadsfirm.svg"><img src="assets/light/w-metaadsfirm.svg" width="32%" alt="MetaAdsFirm, web3 agency"></picture></a>
-<a href="https://www.behance.net/gallery/232881881/The-Black-Momento"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-blackmomento.svg"><img src="assets/light/w-blackmomento.svg" width="32%" alt="The Black Momento, e-commerce"></picture></a>
-<a href="https://www.behance.net/gallery/232882337/Blckbuster-Digital-Marketplace-for-Movie-Rights"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-blckbuster.svg"><img src="assets/light/w-blckbuster.svg" width="32%" alt="Blckbuster, web3 marketplace"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg"><img src="assets/light/w-smartforum.svg" width="32%" alt="Motion Graphics"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-medelz.svg"><img src="assets/light/w-medelz.svg" width="32%" alt="Animation"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-satholler.svg"><img src="assets/light/w-satholler.svg" width="32%" alt="SatHoller, nft auctions"></picture>
 </p>
 
 <br>
