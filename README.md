@@ -1,7 +1,7 @@
 <img src="assets/hero.svg" width="100%" alt="Meet Ayush! CSE (AI/ML) student building AI apps, full-stack websites, and intelligent solutions.">
 
 <p align="center">
-<a href="https://www.victorstudios.org/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg"><img src="assets/light/l-site.svg" height="34" alt="Website"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg"><img src="assets/light/l-site.svg" height="34" alt="Website"></picture>
 <a href="https://www.instagram.com/aayushh0_0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg"><img src="assets/light/l-instagram.svg" height="34" alt="Instagram"></picture></a>
 <a href="https://www.linkedin.com/in/ayush-rawat-a28116426/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg"><img src="assets/light/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
 </p>
