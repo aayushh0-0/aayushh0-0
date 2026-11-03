@@ -46,12 +46,12 @@
 <br><br>
 
 <p align="center">
-<a href="mailto:ayushrawat24070@gmail.com?subject=Project%20Inquiry">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushrawat24070@gmail.com&su=Project%20Inquiry">
 <img src="assets/cta-v2.svg" width="100%" alt="Interested in working together? Send an email to ayushrawat24070@gmail.com">
 </a>
 </p>
 <p align="center">
-<a href="mailto:ayushrawat24070@gmail.com?subject=Project%20Inquiry"><strong>📧 ayushrawat24070@gmail.com</strong></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushrawat24070@gmail.com&su=Project%20Inquiry"><strong>📧 ayushrawat24070@gmail.com</strong></a>
 </p>
 
 
