@@ -3,10 +3,10 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"><img src="assets/light/now.svg" width="100%" alt="Now: shipping SYVO, a personal AI agent, in private pilot. Open for Framer, AI and Web3 projects."></picture>
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="Products I've built"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="Projects I've built"></picture>
 
 <p align="center">
-<a href="https://xoxi.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-xoxi.svg"><img src="assets/light/p-xoxi.svg" width="32%" alt="XOXI: Your CV becomes a verified portfolio you can apply with. AI match scores for the teams hiring."></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-rheon.svg"><img src="assets/light/p-rheon.svg" width="32%" alt="RHEON: Agentic AI for emergency blood supply — real-time coordination, inventory intelligence and smarter dispatch."></picture>
 <a href="https://syvo.si"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-syvo.svg"><img src="assets/light/p-syvo.svg" width="32%" alt="SYVO: A personal AI agent. Ask in plain words and it finds, books or sells for you, then waits for your OK."></picture></a>
 <a href="https://lovii.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-lovii.svg"><img src="assets/light/p-lovii.svg" width="32%" alt="LOVII: A private journal for couples. One short note a day, drawn by AI as an illustrated card."></picture></a>
 </p>
