@@ -1,4 +1,4 @@
-<a href="https://www.victorstudios.org/en"><img src="assets/hero.svg" width="100%" alt="Victor Studios: I design and build Framer websites, AI agents, full AI web and mobile apps, and Web3 platforms. 7+ years, 200+ projects."></a>
+<a href="https://www.victorstudios.org/en"><img src="assets/hero.svg" width="100%" alt="Meet Ayush! CSE (AI/ML) student building AI-powered apps, full-stack websites, and intelligent solutions. 6+ projects across AI/ML, web, and cybersecurity."></a>
 
 <p align="center">
 <a href="https://www.victorstudios.org/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg"><img src="assets/light/l-site.svg" height="34" alt="Website"></picture></a>
