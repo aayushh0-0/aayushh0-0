@@ -435,35 +435,46 @@ def stack(t):
 
 
 def cta():
-    W, H = 1280, 320
+    W, H = 1280, 300
     s = Svg(W, H)
     s.defs.append(f'''<clipPath id="cc"><rect width="{W}" height="{H}" rx="28"/></clipPath>
-<radialGradient id="ca" cx="0.12" cy="0.2" r="0.7"><stop offset="0" stop-color="#5b2bd6" stop-opacity="0.95"/><stop offset="1" stop-color="{INK}" stop-opacity="0"/></radialGradient>
-<radialGradient id="cb" cx="0.92" cy="0.85" r="0.55"><stop offset="0" stop-color="{ORANGE}" stop-opacity="0.55"/><stop offset="1" stop-color="{INK}" stop-opacity="0"/></radialGradient>
-<pattern id="cg" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.04"/></pattern>
-<linearGradient id="cn" x1="0" x2="1"><stop offset="0" stop-color="{ORANGE}"/><stop offset="0.5" stop-color="{PINK}"/><stop offset="1" stop-color="{VIOLET}"/></linearGradient>''')
-    s.css.append('.sh{animation:sh 2.8s ease-in-out infinite}@keyframes sh{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}')
+<radialGradient id="ca" cx="0.08" cy="0.15" r="0.65"><stop offset="0" stop-color="#6d28d9" stop-opacity="0.9"/><stop offset="0.55" stop-color="#3b1d8f" stop-opacity="0.35"/><stop offset="1" stop-color="{INK}" stop-opacity="0"/></radialGradient>
+<radialGradient id="cb" cx="0.95" cy="0.9" r="0.5"><stop offset="0" stop-color="{ORANGE}" stop-opacity="0.45"/><stop offset="1" stop-color="{INK}" stop-opacity="0"/></radialGradient>
+<pattern id="cg" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+<linearGradient id="cn" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff6a00"/><stop offset="0.45" stop-color="#f472b6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>''')
+    s.css.append('.sh{animation:sh 2.6s ease-in-out infinite}@keyframes sh{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}')
     s.add(f'<g clip-path="url(#cc)"><rect width="{W}" height="{H}" fill="{INK}"/><rect width="{W}" height="{H}" fill="url(#cg)"/>'
           f'<rect width="{W}" height="{H}" fill="url(#ca)"/><rect width="{W}" height="{H}" fill="url(#cb)"/></g>')
-    # left content
-    s.text(56, 78, "INTERESTED IN WORKING TOGETHER?", "M5", 15, ORANGE, spacing=2.5)
-    s.text(52, 148, "Let's create something", "G8", 52, CREAM, spacing=-1.5)
-    x_am = 52 + text_width("Let's create something ", "geist", 800, 52, -1.5)
-    s.text(x_am, 148, "amazing together.", "G8", 52, "url(#cn)", spacing=-1.5)
-    s.text(56, 200, "Open to collaborations, freelance projects, hackathons and exciting opportunities.", "G4", 17, "#c9c3d8")
-    s.text(56, 226, "Drop me an email — let's discuss your ideas!", "G4", 17, "#c9c3d8")
-    # right side: email icon + address
-    ix, iy = 920, 70
-    s.add(f'<rect x="{ix}" y="{iy}" width="52" height="52" rx="14" fill="#1a1228" stroke="{ORANGE}" stroke-opacity="0.45"/>')
-    s.add(f'<path d="M{ix+12} {iy+18} h28 v20 h-28 z" fill="none" stroke="{ORANGE}" stroke-width="2.2" stroke-linejoin="round"/>')
-    s.add(f'<path d="M{ix+12} {iy+18} l14 11 l14 -11" fill="none" stroke="{ORANGE}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>')
-    s.text(ix + 64, iy + 24, "Send me an email", "G5", 15, "#c9c3d8")
-    s.text(ix + 64, iy + 46, "ayushrawat24070@gmail.com", "G6", 16, CREAM)
-    # button
-    bx, by = 920, 200
-    s.add(f'<g class="sh"><rect x="{bx}" y="{by}" width="280" height="58" rx="29" fill="{ORANGE}"/>')
-    s.text(bx + 48, by + 37, "Send an Email", "G6", 20, "#ffffff")
-    s.add(f'<path d="M{bx + 230} {by + 22} l14 0 m0 0 l0 14 m0 -14 l-16 16" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round"/></g>')
+
+    # eyebrow
+    s.text(56, 72, "INTERESTED IN WORKING TOGETHER?", "M5", 14, ORANGE, spacing=2.8)
+
+    # headline — keep on one visual line with controlled sizes
+    headline_y = 138
+    s.text(52, headline_y, "Let's create something", "G8", 48, CREAM, spacing=-1.2)
+    x2 = 52 + text_width("Let's create something ", "geist", 800, 48, -1.2)
+    s.text(x2, headline_y, "amazing together.", "G8", 48, "url(#cn)", spacing=-1.2)
+
+    # body copy
+    s.text(56, 190, "Open to collaborations, freelance projects, hackathons and exciting opportunities.", "G4", 16, "#c9c3d8")
+    s.text(56, 216, "Drop me an email — let's discuss your ideas!", "G4", 16, "#c9c3d8")
+
+    # right: email chip
+    ix, iy = 930, 58
+    s.add(f'<rect x="{ix}" y="{iy}" width="48" height="48" rx="12" fill="#1a1228" stroke="{ORANGE}" stroke-opacity="0.5"/>')
+    # envelope
+    s.add(f'<path d="M{ix+11} {iy+16} h26 v18 h-26 z" fill="none" stroke="{ORANGE}" stroke-width="2" stroke-linejoin="round"/>')
+    s.add(f'<path d="M{ix+11} {iy+16} l13 10 l13 -10" fill="none" stroke="{ORANGE}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>')
+    s.text(ix + 60, iy + 22, "Send me an email", "G5", 14, "#a8a3b8")
+    s.text(ix + 60, iy + 42, "ayushrawat24070@gmail.com", "G6", 15, CREAM)
+
+    # CTA button
+    bx, by = 930, 200
+    bw = 270
+    s.add(f'<g class="sh"><rect x="{bx}" y="{by}" width="{bw}" height="54" rx="27" fill="{ORANGE}"/>')
+    s.text(bx + 42, by + 35, "Send an Email", "G6", 19, "#ffffff")
+    s.add(f'<path d="M{bx + 210} {by + 20} l12 0 m0 0 l0 12 m0 -12 l-14 14" stroke="#fff" stroke-width="2.3" fill="none" stroke-linecap="round"/></g>')
+
     s.add(f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="28" fill="none" stroke="#fff" stroke-opacity="0.1"/>')
     return s
 
