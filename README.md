@@ -19,7 +19,7 @@
 <br>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/light/s03.svg" width="100%" alt="Selected client work"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/light/s03.svg" width="100%" alt="Other work"></picture>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg"><img src="assets/light/w-smartforum.svg" width="32%" alt="Motion Graphics"></picture>
