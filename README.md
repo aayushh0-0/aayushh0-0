@@ -63,7 +63,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"><img src="assets/light/s05.svg" width="100%" alt="Building in public"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-studios/victor-studios/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/victor-studios/victor-studios/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by an orange snake"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushh0-0/aayushh0-0/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/aayushh0-0/aayushh0-0/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by an orange snake"></picture>
 <br><br>
 
 <a href="https://www.victorstudios.org/en"><img src="assets/cta.svg" width="100%" alt="Have a project in mind? Let's build it together. Get a quote at victorstudios.org"></a>
