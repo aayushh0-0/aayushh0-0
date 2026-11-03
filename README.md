@@ -9,7 +9,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"><img src="assets/light/now.svg" width="100%" alt="Now: Building AI-powered applications, full-stack experiences & intelligent solutions. Always exploring what's next."></picture>
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="Projects I've built"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg?v=2"><img src="assets/light/s01.svg?v=2" width="100%" alt="Projects I've built"></picture>
 
 <p align="center">
 <a href="https://github.com/aayushh0-0/Rheon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-rheon.svg"><img src="assets/light/p-rheon.svg" width="32%" alt="RHEON: Agentic AI for emergency blood supply — real-time coordination, inventory intelligence and smarter dispatch."></picture></a>
@@ -19,7 +19,7 @@
 <br>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/light/s03.svg" width="100%" alt="Other work"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg?v=2"><img src="assets/light/s03.svg?v=2" width="100%" alt="Other work"></picture>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg"><img src="assets/light/w-smartforum.svg" width="32%" alt="Motion Graphics"></picture>
@@ -29,12 +29,12 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/light/s04.svg" width="100%" alt="Tools I ship with"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg?v=2"><img src="assets/light/s04.svg?v=2" width="100%" alt="Tools I ship with"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="Figma, Framer, React, Next.js, TypeScript, Tailwind, Flutter, Node.js, Python, Supabase, Firebase, OpenAI, Claude, n8n, Solidity, Ethereum, Solana, WordPress, Shopify"></picture>
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"><img src="assets/light/s05.svg" width="100%" alt="Building in public"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg?v=2"><img src="assets/light/s05.svg?v=2" width="100%" alt="Building in public"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushh0-0/aayushh0-0/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/aayushh0-0/aayushh0-0/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by an orange snake"></picture>
 <br><br>
