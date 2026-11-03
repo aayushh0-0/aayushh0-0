@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://www.victorstudios.org/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg"><img src="assets/light/l-site.svg" height="34" alt="Website"></picture></a>
-<a href="https://www.instagram.com/vs_web3/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg"><img src="assets/light/l-instagram.svg" height="34" alt="Instagram"></picture></a>
-<a href="https://www.linkedin.com/in/72salman/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg"><img src="assets/light/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
+<a href="https://www.instagram.com/aayushh0_0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg"><img src="assets/light/l-instagram.svg" height="34" alt="Instagram"></picture></a>
+<a href="https://www.linkedin.com/in/ayush-rawat-a28116426/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg"><img src="assets/light/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"><img src="assets/light/now.svg" width="100%" alt="Now: Building AI-powered applications, full-stack experiences & intelligent solutions. Always exploring what's next."></picture>
