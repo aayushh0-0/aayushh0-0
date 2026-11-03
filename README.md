@@ -2,16 +2,11 @@
 
 <p align="center">
 <a href="https://www.victorstudios.org/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg"><img src="assets/light/l-site.svg" height="34" alt="Website"></picture></a>
-<a href="https://www.framer.com/@vstd/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-framer.svg"><img src="assets/light/l-framer.svg" height="34" alt="Framer"></picture></a>
-<a href="https://contra.com/victorstudios"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-contra.svg"><img src="assets/light/l-contra.svg" height="34" alt="Contra"></picture></a>
-<a href="https://www.fiverr.com/victorstudios"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-fiverr.svg"><img src="assets/light/l-fiverr.svg" height="34" alt="Fiverr"></picture></a>
-<a href="https://x.com/vs_web3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-x.svg"><img src="assets/light/l-x.svg" height="34" alt="X"></picture></a>
-<a href="https://www.youtube.com/@vic_std"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-youtube.svg"><img src="assets/light/l-youtube.svg" height="34" alt="YouTube"></picture></a>
 <a href="https://www.instagram.com/vs_web3/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg"><img src="assets/light/l-instagram.svg" height="34" alt="Instagram"></picture></a>
 <a href="https://www.linkedin.com/in/72salman/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg"><img src="assets/light/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"><img src="assets/light/now.svg" width="100%" alt="Now: shipping SYVO, a personal AI agent, in private pilot. Open for Framer, AI and Web3 projects."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/now.svg"><img src="assets/light/now.svg" width="100%" alt="Now: Building AI-powered applications, full-stack experiences & intelligent solutions. Always exploring what's next."></picture>
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="Projects I've built"></picture>
